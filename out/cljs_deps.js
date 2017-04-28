@@ -1,0 +1,12 @@
+goog.addDependency("base.js", ['goog'], []);
+goog.addDependency("../cljs/core.js", ['cljs.core'], []);
+goog.addDependency("../cljs/core/async/impl/protocols.js", ['cljs.core.async.impl.protocols'], []);
+goog.addDependency("../cljs/core/async/impl/buffers.js", ['cljs.core.async.impl.buffers'], []);
+goog.addDependency("../cljs/core/async/impl/dispatch.js", ['cljs.core.async.impl.dispatch'], []);
+goog.addDependency("../cljs/core/async/impl/channels.js", ['cljs.core.async.impl.channels'], []);
+goog.addDependency("../cljs/core/async/impl/ioc_helpers.js", ['cljs.core.async.impl.ioc_helpers'], []);
+goog.addDependency("../cljs/core/async/impl/timers.js", ['cljs.core.async.impl.timers'], []);
+goog.addDependency("../cljs/core/async.js", ['cljs.core.async'], []);
+goog.addDependency("../D5CC5FD.js", ['cljs.nodejs'], []);
+goog.addDependency("../neovim_cljs/core.js", ['neovim_cljs.core'], []);
+goog.addDependency("../AEF573C.js", ['cljs.nodejscli'], []);
