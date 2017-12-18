@@ -4,8 +4,10 @@
          {:main 'neovim-cljs.core
           :output-to "out/main.js"
           :npm-deps {:shelljs "0.7.8"
-                     :socket.io-client "2.0.4"
-                     :msgpack-lite "0.1.26"} ;; NEW
+                     :silk-msgpack-rpc "0.1.2"}
           :install-deps true ;; NEW
           :optimizations :none
           :target :nodejs})
+
+
+

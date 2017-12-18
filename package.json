@@ -1,8 +1,10 @@
 {
   "dependencies": {
     "@cljs-oss/module-deps": "^1.1.1",
+    "msgpack-lite": "^0.1.26",
     "neovim": "^3.5.0",
     "shelljs": "^0.7.8",
-    "socket.io": "^2.0.4"
+    "socket.io": "^2.0.4",
+    "socket.io-client": "^2.0.4"
   }
 }
