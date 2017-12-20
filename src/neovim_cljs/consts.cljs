@@ -1,4 +1,4 @@
-(ns neovim-cljs.nvim-api
+(ns neovim-cljs.consts
   (:require [socket.io-client :as socket-io]
             [goog.string :as gstr]
             [goog.object :as gobj]
